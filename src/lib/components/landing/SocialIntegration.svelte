@@ -3,9 +3,9 @@
 		<h2 class="mb-5 text-3xl leading-tight font-bold">
 			Public-first;<br />privacy-friendly
 		</h2>
-		<p class="text-sm leading-relaxed opacity-90">
-			Login with Bluesky (default), Mastodon, GitHub... Also extend your existing social profile
-			with Roomy.
+		<p class="leading-relaxed opacity-90">
+			Login with Bluesky (default), Mastodon, GitHub... Also extend your existing social
+			profile with Roomy.
 			<a href="#" class="text-purple-300 underline transition-colors hover:text-purple-200"
 				>Netizens</a
 			>
