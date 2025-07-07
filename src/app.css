@@ -1,3 +1,7 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
+
+@theme {
+	--color-roomy-purple: #0a014c;
+}
