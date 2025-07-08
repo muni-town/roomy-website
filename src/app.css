@@ -39,7 +39,7 @@ p {
 }
 
 .article {
-	@apply max-w-2xl py-6 md:py-10 leading-relaxed;
+	@apply max-w-2xl py-6 leading-relaxed md:py-10;
 }
 
 .nav-btn {
