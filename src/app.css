@@ -8,6 +8,7 @@
 
 	--color-roomy-dark-purple: #0a014d;
 	--color-roomy-light-purple: #5b4ed1;
+	--color-roomy-soft-purple: #9188dd;
 }
 
 body {
@@ -38,7 +39,7 @@ p {
 }
 
 .article {
-	@apply mb-5 max-w-2xl py-6 leading-relaxed opacity-90;
+	@apply max-w-2xl py-6 md:py-10 leading-relaxed;
 }
 
 .nav-btn {
