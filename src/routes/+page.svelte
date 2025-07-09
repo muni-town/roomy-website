@@ -6,7 +6,7 @@
 		Hero,
 		Navigation,
 		SocialIntegration
-	} from '$lib/components/landing';
+	} from '$lib/components/templates/landing';
 </script>
 
 <main class="bg-roomy-purple min-h-screen text-white">
