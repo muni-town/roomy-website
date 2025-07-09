@@ -30,6 +30,15 @@ p {
 	@apply font-sans;
 }
 
+.ellipse-layer {
+	@apply drop-shadow-[5000px] backdrop-blur-3xl;
+	@apply drop-shadow-roomy-dark-purple/45;
+	@apply z-[-100] opacity-90;
+	@apply bg-cover bg-center;
+
+	background-image: url('/images/ellipse.png');
+}
+
 .labeled-text {
 	@apply bg-roomy-light-purple inline-block w-max px-2 py-1 font-mono italic;
 }
@@ -44,6 +53,10 @@ p {
 
 .nav-btn {
 	@apply rounded-md border border-white/20 bg-white/10 px-4 py-2 text-sm font-medium uppercase transition-colors hover:bg-purple-500/30;
+}
+
+.section-wrapper {
+	@apply mx-auto max-w-6xl px-5 py-10;
 }
 
 /* dm-sans-100 - latin */

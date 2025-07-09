@@ -1,10 +1,9 @@
-<section class="mb-20">
+<section class="section-wrapper mb-20">
 	<h1
 		class="text-roomy-light-purple mb-3 bg-clip-text text-8xl leading-none font-medium md:text-9xl"
 	>
-		ROOMY
+		MAKE ✱ SPACE
 	</h1>
-	<p class="mb-10 text-2xl font-light tracking-widest">MAKE ✱ SPACE</p>
 	<span class="labeled-text">Content fluidity</span>
 	<p class="article">
 		In Roomy every communication artefact can be expanded seamlessly from chat message up to a

@@ -1,4 +1,4 @@
-<section class="divide-roomy-soft-purple mb-20 space-y-20 divide-y md:space-y-0">
+<section class="section-wrapper divide-roomy-soft-purple mb-20 space-y-20 divide-y md:space-y-0">
 	<div class="group flex flex-col items-center justify-between gap-8 md:flex-row">
 		<span class="labeled-text group-hover:opacity-100 md:opacity-80">
 			Communal resiliency

@@ -9,13 +9,11 @@
 	} from '$lib/components/templates/landing';
 </script>
 
-<main class="bg-roomy-purple min-h-screen text-white">
-	<div class="mx-auto max-w-6xl px-5 py-10">
-		<Navigation />
-		<Hero />
-		<ContentPreview />
-		<Features />
-		<SocialIntegration />
-		<BlueskyConnection />
-	</div>
+<main class="min-h-screen overflow-x-hidden text-white">
+	<Navigation />
+	<Hero />
+	<ContentPreview />
+	<Features />
+	<SocialIntegration />
+	<BlueskyConnection />
 </main>

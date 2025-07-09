@@ -4,7 +4,9 @@
 	import SocialGrid from '$lib/components/molecules/SocialGrid.svelte';
 </script>
 
-<section class="mb-20 flex flex-col items-center justify-between gap-8 md:max-w-6xl lg:flex-row">
+<section
+	class="section-wrapper mb-20 flex flex-col items-center justify-between gap-8 md:max-w-6xl lg:flex-row"
+>
 	<div class="mb-10">
 		<h2 class="mb-5 text-3xl leading-tight font-bold">
 			Public-first;<br />privacy-friendly
@@ -19,22 +21,22 @@
 	</div>
 	<SocialGrid>
 		<SocialBlock>
-			<Discord />
+			<Discord class="h-16 w-16" />
 		</SocialBlock>
 		<SocialBlock>
-			<Mastodon />
+			<Mastodon class="h-16 w-16" />
 		</SocialBlock>
 		<SocialBlock>
-			<GitHub />
+			<GitHub class="h-16 w-16" />
 		</SocialBlock>
 		<SocialBlock>
-			<Bluesky />
+			<Bluesky class="h-16 w-16" />
 		</SocialBlock>
 		<SocialBlock>
-			<Google />
+			<Google class="h-16 w-16" />
 		</SocialBlock>
 		<SocialBlock>
-			<At />
+			<At class="h-16 w-16" />
 		</SocialBlock>
 	</SocialGrid>
 </section>
