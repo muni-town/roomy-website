@@ -1,0 +1,41 @@
+name: Deploy Production
+on:
+    push:
+        tags:
+            - 'v*'
+
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        name: Publish Production
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+              with:
+                  ref: 'main'
+
+            - name: Setup Bun
+              uses: oven-sh/setup-bun@v2
+
+            - name: Install Dependencies
+              run: bun i
+
+            - name: Build
+              env:
+                  NODE_ENV: 'production'
+                  VERSION: ${{ github.ref_name }}
+              run: bun run build
+
+            - name: Install NodeJS
+              uses: actions/setup-node@v4
+              with:
+                  node-version: 20
+                  registry-url: https://registry.npmjs.org/
+
+            - name: Deploy
+              uses: cloudflare/wrangler-action@v3
+              with:
+                  apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+                  accountId: ${{ secrets.CF_ACCOUNT_ID }}
+                  command: pages deploy ./.svelte-kit/cloudflare --project-name=${{ secrets.CLOUDFLARE_PAGES_PROJECT_NAME }} --branch=main
+                  gitHubToken: ${{ secrets.GITHUB_TOKEN }}
