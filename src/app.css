@@ -33,7 +33,7 @@ p {
 .ellipse-layer {
 	@apply drop-shadow-[5000px] backdrop-blur-3xl;
 	@apply drop-shadow-roomy-dark-purple/45;
-	@apply z-[-100] opacity-90;
+	@apply opacity-90;
 	@apply bg-cover bg-center;
 
 	background-image: url('/images/ellipse.png');

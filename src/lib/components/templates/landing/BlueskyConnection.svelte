@@ -1,8 +1,9 @@
 <script>
+	import Footer from '$lib/components/atoms/Footer.svelte';
 	import GroupConnectedIllustration from '$lib/components/atoms/GroupConnectedIllustration.svelte';
 </script>
 
-<section class="ellipse-layer relative h-screen w-screen">
+<div class="ellipse-layer relative min-h-screen w-screen">
 	<figure
 		class="absolute top-[10%] left-[-1%] z-5 flex h-32 w-32 items-center justify-center rounded-full lg:h-80 lg:w-80"
 	>
@@ -36,4 +37,5 @@
 	>
 		<img alt="Left Mountain" src="/images/mountain.png" />
 	</figure>
-</section>
+	<Footer />
+</div>
