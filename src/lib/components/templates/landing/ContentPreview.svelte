@@ -5,13 +5,15 @@
 		<img alt="Roomy Chat Properties Graph" src="/images/chat.png" />
 	</figure>
 	<div class="top-[25%] right-[-5%] flex flex-col justify-center lg:absolute">
-		<span class="labeled-text"> Self-documenting communications </span>
+		<span class="labeled-text mt-20 md:mt-0">Content fluidity</span>
 		<p class="article">
-			Every page, every thread, every post in Roomy is fundamentally a type of document. Any
-			single chat message, discussion thread, or stand-alone page document can be transformed
-			into the first draft of a Documentation Page,
-			<a href="#" class="link"> Digital Message Gardening </a>
-			(aka Throughly All The Things!)
+			In Roomy every communication artefact can be expanded seamlessly from chat message up to
+			a wall or even stand-alone channel. Open as many new channels as you need, and let the
+			system to release when they go dormant.<br />
+			No need for discussion containers (posts, threads, channels, spaces ) to remain tied to any
+			final form.
+			<br />
+			<a href="#" class="link"> Fluid Content Containers </a>
 		</p>
 	</div>
 </section>

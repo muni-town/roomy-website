@@ -1,6 +1,18 @@
 <section class="section-wrapper divide-roomy-soft-purple mb-20 space-y-20 divide-y md:space-y-0">
 	<div class="group flex flex-col items-center justify-between gap-8 md:flex-row">
 		<span class="labeled-text group-hover:opacity-100 md:opacity-80">
+			Self-documenting communications
+		</span>
+		<p class="article md:opacity-80 md:group-hover:opacity-100">
+			Every page, every thread, every post in Roomy is fundamentally a type of document. Any
+			single chat message, discussion thread, or stand-alone page document can be transformed
+			into the first draft of a Documentation Page,
+			<a href="#" class="link"> Digital Message Gardening </a>
+			(aka Throughly All The Things!)
+		</p>
+	</div>
+	<div class="group flex flex-col items-center justify-between gap-8 md:flex-row">
+		<span class="labeled-text group-hover:opacity-100 md:opacity-80">
 			Communal resiliency
 		</span>
 		<p class="article md:opacity-80 md:group-hover:opacity-100">
