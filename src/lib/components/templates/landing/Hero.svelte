@@ -5,6 +5,6 @@
 		>
 			<span class="text-white/90">MAKE&nbsp;</span><span class=" text-white/90">SPACE</span>
 		</h1>
-		<span class="text-3xl font-medium md:text-4xl">Cultivate Knowledge</span>
+		<span class="text-3xl font-medium md:text-4xl">cultivate knowledge</span>
 	</div>
 </section>
