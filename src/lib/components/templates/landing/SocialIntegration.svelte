@@ -7,7 +7,7 @@
 <section
 	class="section-wrapper mb-20 flex flex-col items-center justify-between gap-8 md:max-w-6xl lg:flex-row"
 >
-	<div class="mb-10">
+	<div class="mb-10 text-center w-11/12 lg:w-[500px]">
 		<h2 class="mb-5 text-3xl leading-tight font-bold">Bring your own ID</h2>
 		<p class="leading-relaxed opacity-90">
 			Login with Bluesky (default), Mastodon, GitHub... Also extend your existing social
