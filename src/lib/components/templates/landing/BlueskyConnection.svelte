@@ -1,6 +1,7 @@
 <script>
 	import Footer from '$lib/components/atoms/Footer.svelte';
 	import GroupConnectedIllustration from '$lib/components/atoms/GroupConnectedIllustration.svelte';
+	import GroupConnectedIllustrationVertical from '$lib/components/atoms/GroupConnectedIllustrationVertical.svelte';
 </script>
 
 <div class="ellipse-layer relative min-h-screen w-screen">
@@ -23,8 +24,11 @@
 				</p>
 			</article>
 		</div>
-		<div class="flex items-center justify-center gap-5">
+		<div class="hidden items-center justify-center gap-5 lg:flex">
 			<GroupConnectedIllustration />
+		</div>
+		<div class="flex w-[350px] mx-auto md:w-[400px] items-center justify-center gap-5 lg:hidden">
+			<GroupConnectedIllustrationVertical />
 		</div>
 	</div>
 	<figure
