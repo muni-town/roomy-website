@@ -1,5 +1,5 @@
-<section class="section-wrapper divide-roomy-soft-purple mb-20 space-y-20 divide-y md:space-y-0">
-	<div class="group flex flex-col items-center justify-between gap-8 md:flex-row">
+<section class="section-wrapper divide-roomy-soft-purple mb-20 space-y-20 divide-y lg:space-y-0">
+	<div class="group flex flex-col items-center justify-between gap-8 lg:flex-row">
 		<span class="labeled-text group-hover:opacity-100 md:opacity-80">
 			Gardenable group chat<br />that grows with you
 		</span>
@@ -11,7 +11,7 @@
 			(aka Throughly All The Things!)
 		</p>
 	</div>
-	<div class="group flex flex-col items-center justify-between gap-8 md:flex-row">
+	<div class="group flex flex-col items-center justify-between gap-8 lg:flex-row">
 		<span class="labeled-text group-hover:opacity-100 md:opacity-80"> Communal resiliency </span>
 		<p class="article md:opacity-80 md:group-hover:opacity-100">
 			Build sovereign communities, designed to persist under the harshest conditions with novelties
@@ -22,7 +22,7 @@
 			<a href="#" class="link">Appropriate Technology</a>
 		</p>
 	</div>
-	<div class="group flex flex-col items-center justify-between gap-8 md:flex-row">
+	<div class="group flex flex-col items-center justify-between gap-8 lg:flex-row">
 		<span class="labeled-text group-hover:opacity-100 md:opacity-80">Peer powered</span>
 		<p class="article md:opacity-80 md:group-hover:opacity-100">
 			Make communities that can, if necessary, endure purely on the shared resources of sufficiently
@@ -30,7 +30,7 @@
 			<a href="#" class="link"> Peer-2-Peer software </a>
 		</p>
 	</div>
-	<div class="group flex flex-col items-center justify-between gap-8 md:flex-row">
+	<div class="group flex flex-col items-center justify-between gap-8 lg:flex-row">
 		<span class="labeled-text group-hover:opacity-100 md:opacity-80"
 			>Public-first; privacy-friendly</span
 		>
