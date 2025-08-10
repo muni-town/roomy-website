@@ -27,7 +27,9 @@
 		<div class="hidden items-center justify-center gap-5 lg:flex">
 			<GroupConnectedIllustration />
 		</div>
-		<div class="flex w-[350px] mx-auto md:w-[400px] items-center justify-center gap-5 lg:hidden">
+		<div
+			class="mx-auto flex w-[350px] items-center justify-center gap-5 md:w-[400px] lg:hidden"
+		>
 			<GroupConnectedIllustrationVertical />
 		</div>
 	</div>
