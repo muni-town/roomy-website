@@ -7,7 +7,9 @@
 			Every page, every thread, every post in Roomy is fundamentally a type of document. Any
 			single chat message, discussion thread, or stand-alone page document can be transformed
 			into the first draft of a Documentation Page,
-			<a href="#" class="link"> Digital Message Gardening </a>
+			<a href="https://blog.muni.town/chatty-community-gardens/" target="_blank" class="link">
+				Digital Message Gardening
+			</a>
 			(aka Throughly All The Things!)
 		</p>
 	</div>
@@ -19,9 +21,15 @@
 			Build sovereign communities, designed to persist under the harshest conditions with
 			novelties like Universally Shared Records: you will have a local copy of your
 			community's data at all times, and so will all your community members!
-			<a href="#" class="link">Local-first software</a>
+			<a href="https://www.inkandswitch.com/essay/local-first/" target="_blank" class="link"
+				>Local-first software</a
+			>
 			and
-			<a href="#" class="link">Appropriate Technology</a>
+			<a
+				href=" https://en.wikipedia.org/wiki/Appropriate_technology"
+				target="_blank"
+				class="link">Appropriate Technology</a
+			>
 		</p>
 	</div>
 	<div class="group flex flex-col items-center justify-between gap-8 lg:flex-row">
@@ -29,7 +37,9 @@
 		<p class="article md:opacity-80 md:group-hover:opacity-100">
 			Make communities that can, if necessary, endure purely on the shared resources of
 			sufficiently aligned peers in a mutual-sharing network.
-			<a href="#" class="link"> Peer-2-Peer software </a>
+			<a href="https://en.wikipedia.org/wiki/Peer-to-peer" target="_blank" class="link">
+				Peer-2-Peer software
+			</a>
 		</p>
 	</div>
 	<div class="group flex flex-col items-center justify-between gap-8 lg:flex-row">

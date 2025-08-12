@@ -13,7 +13,7 @@
 			No need for discussion containers (posts, threads, channels, spaces ) to remain tied to any
 			final form.
 			<br />
-			<a href="#" class="link"> Fluid Content Containers </a>
+			<span class="link"> Fluid Content Containers </span>
 		</p>
 	</div>
 </section>
