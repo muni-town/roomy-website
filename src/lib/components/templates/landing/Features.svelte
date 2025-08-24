@@ -10,7 +10,6 @@
 			<a href="https://blog.muni.town/chatty-community-gardens/" target="_blank" class="link">
 				Digital Message Gardening
 			</a>
-			(aka Throughly All The Things!)
 		</p>
 	</div>
 	<div class="group flex flex-col items-center justify-between gap-8 lg:flex-row">
@@ -22,9 +21,8 @@
 			novelties like Universally Shared Records: you will have a local copy of your
 			community's data at all times, and so will all your community members!
 			<a href="https://www.inkandswitch.com/essay/local-first/" target="_blank" class="link"
-				>Local-first software</a
-			>
-			and
+				>Local-first software</a>
+			realizes 
 			<a
 				href=" https://en.wikipedia.org/wiki/Appropriate_technology"
 				target="_blank"
@@ -52,8 +50,6 @@
 			primary use case for the platform.<br /><br />
 			If you don't want your private group subjected to scrutiny, we will soon support self-hosting
 			for full privacy.
-			<a href="#" class="link">Regulations</a>,
-			<a href="#" class="link">Bylaws</a>
 		</p>
 	</div>
 </section>
