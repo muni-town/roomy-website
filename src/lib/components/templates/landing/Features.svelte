@@ -21,8 +21,9 @@
 			novelties like Universally Shared Records: you will have a local copy of your
 			community's data at all times, and so will all your community members!
 			<a href="https://www.inkandswitch.com/essay/local-first/" target="_blank" class="link"
-				>Local-first software</a>
-			realizes 
+				>Local-first software</a
+			>
+			realizes
 			<a
 				href=" https://en.wikipedia.org/wiki/Appropriate_technology"
 				target="_blank"
