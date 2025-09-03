@@ -22,7 +22,7 @@ export const CONFIG = {
 			{
 				title: 'Blog',
 				items: [
-					{ label: 'Muni Town Blog', url: 'https://muni.town/blog' },
+					{ label: 'Muni Town Blog', url: 'https://blog.muni.town/' },
 					{
 						label: 'Roomy .space (alpha-4)',
 						url: 'https://blog.muni.town/roomy-space-alpha4/'
